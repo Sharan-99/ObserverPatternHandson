@@ -1,0 +1,10 @@
+C:\Users\2091199\source\repos\ObserverClient\ObserverClient\bin\Debug\ObserverClient.exe.config
+C:\Users\2091199\source\repos\ObserverClient\ObserverClient\bin\Debug\ObserverClient.exe
+C:\Users\2091199\source\repos\ObserverClient\ObserverClient\bin\Debug\ObserverClient.pdb
+C:\Users\2091199\source\repos\ObserverClient\ObserverClient\bin\Debug\ObserverPatternLibrary.dll
+C:\Users\2091199\source\repos\ObserverClient\ObserverClient\bin\Debug\ObserverPatternLibrary.pdb
+C:\Users\2091199\source\repos\ObserverClient\ObserverClient\obj\Debug\ObserverClient.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\ObserverClient\ObserverClient\obj\Debug\ObserverClient.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\ObserverClient\ObserverClient\obj\Debug\ObserverClient.csproj.CopyComplete
+C:\Users\2091199\source\repos\ObserverClient\ObserverClient\obj\Debug\ObserverClient.exe
+C:\Users\2091199\source\repos\ObserverClient\ObserverClient\obj\Debug\ObserverClient.pdb
